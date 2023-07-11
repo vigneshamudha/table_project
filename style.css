@@ -1,0 +1,42 @@
+body{
+    background:url("./cricket\ oval.avif");
+   background-repeat: no repeat;
+   background-size: cover;
+}
+#heading{
+    color:black;
+    background:orangered;
+    height: 50px;
+    width:950px;
+    text-align: center;
+    margin:auto;
+}
+#content
+{
+    display: flex;
+    background: rgba(0, 0, 0, 0.6);
+    height: 550px;
+    width:1350px;
+    margin: auto;
+    margin-top: 40px;
+    justify-content: space-around;
+}
+img{
+    height: 100px;
+    width: 150px;
+    border: 3px solid wheat;
+     border-top-left-radius: 30%;
+     border-bottom-right-radius: 20%;
+    margin-top:70px;
+    margin-left:20px;
+}
+#title{
+
+    background:yellow;
+    display: flex;
+    width:950px;
+    height: 80px;
+    margin:auto;
+    margin-top: 30px;
+    justify-content: space-around;
+}
